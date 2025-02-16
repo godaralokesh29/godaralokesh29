@@ -1,12 +1,12 @@
-# Hi there, I'm Lokesh 👋
+# Hi there, I'm Lokesh Godara From Maths and Computing Department of DELHI TECHNOLOGICAL UNIVERSITY(Formely DCE)👋
 
 ## About Me
 
-- 🌱 I’m currently learning and exploring new technologies.
+- 🌱 I’m currently learning Typescript and NextJS.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced algorithms and data structures.
 - 💬 Ask me about web development, JavaScript, and Python.
-- 📫 How to reach me: [godaralokesh29](https://github.com/godaralokesh29)
+- 📫 How to reach me: godaralokesh2023@gmail.com
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## GitHub Stats
