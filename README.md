@@ -38,6 +38,14 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=godaralokesh29&theme=redical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -46,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godaralokesh_29&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godaralokesh29&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -67,7 +75,7 @@
   <a href="https://www.linkedin.com/in/godaralokesh29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/godaralokesh29" target="_blank">
+  <a href="https://twitter.com/godaralokesh_29" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:godaralokesh2023@gmail.com" target="_blank">
@@ -76,10 +84,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=godaralokesh29&theme=redical" alt="GitHub Activity Graph" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=godaralokesh29&theme=radical&row=1&column=6" />
