@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Maths & Computing, DTU (Formerly DCE)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=TypeScript+%7C+Next.js+Learner;Web+Dev+Enthusiast;Open+Source+Contributor;Chess+%7C+Puzzle+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=TypeScript+%7C+Next.js;AI + full stack developer;Open+Source+Contributor;Chess+%7C+Puzzle+Lover" alt="Typing SVG" />
 </p>
 
 ---
