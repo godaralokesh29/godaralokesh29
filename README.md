@@ -38,14 +38,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=godaralokesh29&theme=redical" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -86,9 +78,13 @@
 ---
 
 <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=godaralokesh29&theme=redical" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=godaralokesh29&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
-⭐️ If you like what you see, give a ⭐ to support my work!
+⭐️ If you like what you see, give a ⭐ to support my work
