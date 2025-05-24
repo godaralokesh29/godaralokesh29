@@ -61,7 +61,7 @@
 
 - 🔗 [**PayTM-V2**](https://github.com/godaralokesh29/PayTM-V2): MERN stack-based payment web app 💸
 - 🔗 [Bloggo](https://github.com/godaralokesh29/medium-blog-v2): Serverless Backend Blogging platform
-- 🔗 [Assembly Game](assembly-play.vercel.app): A fun Game i made
+- 🔗 [Assembly Game](https://github.com/godaralokesh29/assembly-play): A fun Game i made
 
 ---
 
