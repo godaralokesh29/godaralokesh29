@@ -60,8 +60,8 @@
 ✨ Here are some cool things I’ve built:
 
 - 🔗 [**PayTM-V2**](https://github.com/godaralokesh29/PayTM-V2): MERN stack-based payment web app 💸
-<!-- - 🔗 [Project 2](https://github.com/godaralokesh29/project2): Project 2 description
-- 🔗 [Project 3](https://github.com/godaralokesh29/project3): Project 3 description -->
+- 🔗 [Bloggo](https://github.com/godaralokesh29/medium-blog-v2): Serverless Backend Blogging platform
+- 🔗 [Assembly Game]assembly-play.vercel.app): A fun Game i made
 
 ---
 
