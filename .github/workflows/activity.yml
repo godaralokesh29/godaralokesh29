@@ -19,7 +19,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://github.com/godaralokesh29.atom"
-          max_post_count: 6
+          max_post_count: 20
           readme_path: './README.md'
           comment_tag_name: "RECENT-ACTIVITY"
           commit_message: "docs: update README with recent activity"
