@@ -1,25 +1,33 @@
-name: Update README with recent activity
+name: Update README with recent GitHub activity
 
 on:
   schedule:
-    - cron: "0 * * * *" # runs every hour
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # 👈 allow pushing commits to your repo
+
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Update README with recent GitHub activity
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://github.com/godaralokesh29.atom"
-          max_post_count: 5
+          max_post_count: 6
           readme_path: './README.md'
           comment_tag_name: "RECENT-ACTIVITY"
           commit_message: "docs: update README with recent activity"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Filters
+          ignore_posts: "update README,update activity.yaml" # skip both
+          filter_commits: "true"        # no commits
+          filter_releases: "true"       # no releases
+          filter_comments: "false"      # allow comments
+          filter_issues: "false"        # allow issues
+          filter_pull_requests: "false" # allow PRs
