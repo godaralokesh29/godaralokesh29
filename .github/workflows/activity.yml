@@ -11,8 +11,8 @@ jobs:
     permissions:
       contents: write   # allow pushing README updates
     steps:
-      - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@v2.6.0
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-activity@v2
         with:
           COMMIT_MSG: "chore: update README with recent activity"
           MAX_LINES: 6
