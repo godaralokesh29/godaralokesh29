@@ -1,19 +1,41 @@
-name: Update README with recent activity
+# Name of the GitHub Actions workflow.
+name: Update README
 
+# Controls when the action will run.
 on:
+  # Triggers the workflow on a schedule (runs every hour).
   schedule:
-    - cron: "0 * * * *"   # runs every hour
-  workflow_dispatch:       # allows manual run
+    - cron: '0 * * * *'
+  # Allows you to run this workflow manually from the Actions tab.
+  workflow_dispatch:
 
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel.
 jobs:
   build:
+    # The type of runner that the job will run on.
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: Update README with recent activity
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Update activity
-        uses: Readme-Workflows/recent-activity@v2
+      # Step 1: Checks out your repository under $GITHUB_WORKSPACE, so your job can access it.
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # Step 2: Runs the action to update the README file with recent activity.
+      # Make sure to use a valid version tag (e.g., v0.1.1).
+      - name: Update README with recent activity
+        uses: readme-workflows/recent-activity@v0.1.1
+        env:
+          # The GITHUB_TOKEN is required for the action to authenticate and fetch your activity.
+          # It's automatically created and provided by GitHub Actions.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 3: Commits the changes made to the README.md file back to your repository.
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          GH_USERNAME: godaralokesh29   # 👈 your GitHub username
-          MAX_LINES: 4
+          commit_message: "docs: update README with recent activity"
+          file_pattern: README.md
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
