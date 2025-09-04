@@ -26,9 +26,5 @@ jobs:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           
           # Filters
-          ignore_posts: "update README,update activity.yaml" # skip both
-          filter_commits: "true"        # no commits
-          filter_releases: "true"       # no releases
-          filter_comments: "false"      # allow comments
-          filter_issues: "false"        # allow issues
-          filter_pull_requests: "false" # allow PRs
+          iignore_commits: "pushed godaralokesh29,update README,update activity.yaml"
+          filter_commits: "true"
