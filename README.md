@@ -11,8 +11,8 @@
 
 ### 🔥 Recent GitHub Activity
 <!-- RECENT-ACTIVITY:START -->
-- [godaralokesh29 pushed godaralokesh29](https://github.com/godaralokesh29/godaralokesh29/compare/5123f3e076...3fa6c2800c)
-- [godaralokesh29 pushed godaralokesh29](https://github.com/godaralokesh29/godaralokesh29/compare/c747f92621...3bb738a273)
+- [godaralokesh29 opened a pull request in gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations/pull/183)
+- [godaralokesh29 pushed gsoc-organizations](https://github.com/godaralokesh29/gsoc-organizations/compare/0812a7569c...60fb5737f3)
 <!-- RECENT-ACTIVITY:END -->
 
 
