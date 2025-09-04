@@ -9,10 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=godaralokesh29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🔥 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 🔥 Recent GitHub Activity
+<!-- RECENT-ACTIVITY:START -->
+<!-- RECENT-ACTIVITY:END -->
 
 
 ---
