@@ -1,34 +1,25 @@
-# Name of the GitHub Actions workflow.
-name: Update README
+name: Update README with recent activity
 
-# Controls when the action will run.
 on:
-  # Triggers the workflow on a schedule (runs every hour).
   schedule:
-    - cron: '0 * * * *'
-  # Allows you to run this workflow manually from the Actions tab.
+    - cron: "0 * * * *" # runs every hour
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs.
 jobs:
   update-readme:
-    # The type of runner that the job will run on.
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write   # 👈 allow pushing commits to your repo
     steps:
-      # Step 1: Checks out your repository so the workflow can access it.
       - name: Check out repository
         uses: actions/checkout@v4
 
-      # Step 2: Runs the blog-post-workflow action to fetch your latest GitHub activity.
-      # This action uses your GitHub activity feed.
       - name: Update README with recent GitHub activity
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username.
           feed_list: "https://github.com/godaralokesh29.atom"
-          max_post_count: 5 # The number of recent activities to show.
-          readme_path: './README.md' # The path to the README file.
-          comment_tag_name: "RECENT-ACTIVITY" # The name of the comment section in your README.
-          commit_message: "docs: update README with recent activity" # The commit message.
-          gh_token: ${{ secrets.GITHUB_TOKEN }} # The GitHub token for authentication.
+          max_post_count: 5
+          readme_path: './README.md'
+          comment_tag_name: "RECENT-ACTIVITY"
+          commit_message: "docs: update README with recent activity"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
