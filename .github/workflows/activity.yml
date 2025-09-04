@@ -9,33 +9,26 @@ on:
   # Allows you to run this workflow manually from the Actions tab.
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel.
+# A workflow run is made up of one or more jobs.
 jobs:
-  build:
+  update-readme:
     # The type of runner that the job will run on.
     runs-on: ubuntu-latest
-    name: Update README with recent activity
-
+    
     steps:
-      # Step 1: Checks out your repository under $GITHUB_WORKSPACE, so your job can access it.
+      # Step 1: Checks out your repository so the workflow can access it.
       - name: Check out repository
         uses: actions/checkout@v4
 
-      # Step 2: Runs the action to update the README file with recent activity.
-      # Make sure to use a valid version tag (e.g., v0.1.1).
-      - name: Update README with recent activity
-        uses: readme-workflows/recent-activity@v0.1.1
-        env:
-          # The GITHUB_TOKEN is required for the action to authenticate and fetch your activity.
-          # It's automatically created and provided by GitHub Actions.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Step 3: Commits the changes made to the README.md file back to your repository.
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+      # Step 2: Runs the blog-post-workflow action to fetch your latest GitHub activity.
+      # This action uses your GitHub activity feed.
+      - name: Update README with recent GitHub activity
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          commit_message: "docs: update README with recent activity"
-          file_pattern: README.md
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          # IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username.
+          feed_list: "https://github.com/godaralokesh29.atom"
+          max_post_count: 5 # The number of recent activities to show.
+          readme_path: './README.md' # The path to the README file.
+          comment_tag_name: "RECENT-ACTIVITY" # The name of the comment section in your README.
+          commit_message: "docs: update README with recent activity" # The commit message.
+          gh_token: ${{ secrets.GITHUB_TOKEN }} # The GitHub token for authentication.
