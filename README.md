@@ -11,11 +11,11 @@
 
 ### 🔥 Recent GitHub Activity
 <!-- RECENT-ACTIVITY:START -->
-- [godaralokesh29 pushed godaralokesh29](https://github.com/godaralokesh29/godaralokesh29/compare/87f2b98ffd...8989d29506)
-- [godaralokesh29 pushed nix-frontend-v2](https://github.com/godaralokesh29/nix-frontend-v2/compare/5de248f73a...19de35d74c)
-- [godaralokesh29 contributed to nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations/pull/183)
-- [godaralokesh29 pushed gsoc-organizations](https://github.com/godaralokesh29/gsoc-organizations/compare/0812a7569c...60fb5737f3)
-- [godaralokesh29 pushed gsoc-organizations](https://github.com/godaralokesh29/gsoc-organizations/compare/2be26f8f0d...8d16c3da66)
+- [godaralokesh29 commented on pull request mannan-b/Main_website_dtutimes#2](https://github.com/mannan-b/Main_website_dtutimes/pull/2#discussion_r2328695817)
+- [godaralokesh29 commented on pull request mannan-b/Main_website_dtutimes#2](https://github.com/mannan-b/Main_website_dtutimes/pull/2#discussion_r2328693429)
+- [godaralokesh29 starred icantcodefyi/athena-vibe](/icantcodefyi/athena-vibe)
+- [godaralokesh29 starred icantcodefyi/frontend-resources](/icantcodefyi/frontend-resources)
+- [godaralokesh29 starred icantcodefyi/diagram](/icantcodefyi/diagram)
 <!-- RECENT-ACTIVITY:END -->
 
 
