@@ -19,12 +19,12 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://github.com/godaralokesh29.atom"
-          max_post_count: 2
+          max_post_count: 5
           readme_path: './README.md'
           comment_tag_name: "RECENT-ACTIVITY"
           commit_message: "docs: update README with recent activity"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           
           # Filters
-          iignore_commits: "pushed godaralokesh29,update README,update activity.yaml"
+          iignore_commits: "godaralokesh29 pushed godaralokesh29 ,update README,update activity.yaml"
           filter_commits: "true"
