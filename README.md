@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lokesh Godara</h1>
-<h3 align="center">A passionate developer from Maths & Computing, DTU (Formerly DCE)</h3>
+## Hi there 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=TypeScript+%7C+Next.js;AI + full stack developer;Open+Source+Contributor;Chess+%7C+Puzzle+Lover" alt="Typing SVG" />
-</p>
+I'm **Lokesh Godara**,
+I'm a passionate developer with a background in **Mathematics & Computing** from **Delhi Technological University (Formerly DCE)**.
+I'm here to collaborate, build, and solve meaningful problems through code.
+I am open for freelance, collaboration, or full-time roles in impactful projects.
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=godaralokesh29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,18 +18,6 @@
 - [godaralokesh29 starred icantcodefyi/frontend-resources](/icantcodefyi/frontend-resources)
 - [godaralokesh29 starred icantcodefyi/diagram](/icantcodefyi/diagram)
 <!-- RECENT-ACTIVITY:END -->
-
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **TypeScript** and **Next.js**
-- 👯 Looking to collaborate on **open-source projects**
-- 🤔 Exploring **advanced algorithms** and **data structures**
-- 💬 Ask me about **Web Dev, JavaScript, Python**
-- 📫 Reach me at **godaralokesh2023@gmail.com**
-- ⚡ Fun fact: I love solving puzzles and playing chess 🧩♟️
 
 ---
 
@@ -50,46 +39,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godaralokesh29&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godaralokesh29&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godaralokesh29&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-## 🚀 Projects
-
-✨ Here are some cool things I’ve built:
-
-- 🔗 [**PayTM-V2**](https://github.com/godaralokesh29/PayTM-V2): MERN stack-based payment web app 💸
-- 🔗 [Bloggo](https://github.com/godaralokesh29/medium-blog-v2): Serverless Backend Blogging platform
-- 🔗 [Assembly Game](https://github.com/godaralokesh29/assembly-play): A fun Game i made
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/godaralokesh29" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/godaralokesh_29" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:godaralokesh2023@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=godaralokesh29&theme=redical" alt="GitHub Activity Graph" />
