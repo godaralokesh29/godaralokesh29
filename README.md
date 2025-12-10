@@ -15,8 +15,6 @@ I am open for freelance, collaboration, or full-time roles in impactful projects
 - [godaralokesh29 starred seehiong/multi-model-chat](https://github.com/seehiong/multi-model-chat)
 - [godaralokesh29 starred seehiong/noteflow](https://github.com/seehiong/noteflow)
 - [godaralokesh29 pushed Trade](https://github.com/godaralokesh29/Trade/compare/1772e4111b...50b58205a6)
-- [godaralokesh29 contributed to furyfist/TradeSenpai](https://github.com/furyfist/TradeSenpai/pull/2)
-- [godaralokesh29 contributed to furyfist/TradeSenpai](https://github.com/furyfist/TradeSenpai/pull/2)
 <!-- RECENT-ACTIVITY:END -->
 
 ---
