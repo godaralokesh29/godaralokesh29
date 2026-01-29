@@ -13,10 +13,6 @@ I am open for freelance, collaboration, or full-time roles in impactful projects
 ### 🔥 Recent GitHub Activity
 <!-- RECENT-ACTIVITY:START -->
 - [godaralokesh29 starred godaralokesh29/DTU_MCE_Material](https://github.com/godaralokesh29/DTU_MCE_Material)
-- [godaralokesh29 pushed DTU_MCE_Material](https://github.com/godaralokesh29/DTU_MCE_Material/compare/15bafdf770...792fef28cd)
-- [godaralokesh29 pushed DTU_MCE_Material](https://github.com/godaralokesh29/DTU_MCE_Material/compare/5471257d7a...15bafdf770)
-- [godaralokesh29 pushed DTU_MCE_Material](https://github.com/godaralokesh29/DTU_MCE_Material/compare/0765e575e1...5471257d7a)
-- [godaralokesh29 pushed DTU_MCE_Material](https://github.com/godaralokesh29/DTU_MCE_Material/compare/a86a9d7010...0765e575e1)
 <!-- RECENT-ACTIVITY:END -->
 
 ---
