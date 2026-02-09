@@ -12,7 +12,10 @@ I am open for freelance, collaboration, or full-time roles in impactful projects
 
 ### 🔥 Recent GitHub Activity
 <!-- RECENT-ACTIVITY:START -->
-- [godaralokesh29 starred godaralokesh29/DTU_MCE_Material](https://github.com/godaralokesh29/DTU_MCE_Material)
+- [godaralokesh29 commented on pull request dtutimes/nix-backend-v2#137](https://github.com/dtutimes/nix-backend-v2/pull/137#discussion_r2779505922)
+- [godaralokesh29 commented on pull request dtutimes/nix-backend-v2#137](https://github.com/dtutimes/nix-backend-v2/pull/137#discussion_r2779505836)
+- [godaralokesh29 commented on pull request dtutimes/nix-backend-v2#137](https://github.com/dtutimes/nix-backend-v2/pull/137#discussion_r2779504948)
+- [godaralokesh29 commented on pull request dtutimes/nix-backend-v2#137](https://github.com/dtutimes/nix-backend-v2/pull/137#discussion_r2779504690)
 <!-- RECENT-ACTIVITY:END -->
 
 ---
